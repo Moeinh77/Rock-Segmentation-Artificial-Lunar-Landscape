@@ -13,4 +13,4 @@ I used a pretrained ResNet-34 as the backbone network for image segmentation. Th
 
 ### Results from the trained model:
 
-!()[http://www.mediafire.com/convkey/2653/4p6yb7umb98kmpnzg.jpg]
+![](http://www.mediafire.com/convkey/2653/4p6yb7umb98kmpnzg.jpg)
